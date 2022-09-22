@@ -68,14 +68,6 @@
           logo: Listen1.jpg
           url: https://listen1.github.io/listen1/
           description: Listen1音乐。
-        - title: 电影天堂（DYTT8）
-          logo: 电影天堂.png
-          url: https://www.dytt8.net/index.htm
-          description: 电影天堂（DYTT8），高清电影下载。
-        - title: 电影天堂（DYGOD）
-          logo: 电影天堂.png
-          url: https://www.dygod.net/
-          description: 电影天堂（DYGOD），高清电影下载。
     - term: 在线论坛
       links:
         - title: 百度贴吧
