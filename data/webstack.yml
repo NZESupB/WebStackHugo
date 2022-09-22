@@ -8,11 +8,11 @@
       url: https://air.nzes.cf
       description: 一个用来存放使用文档的网站(
     - title: 京东自动登录
-      logo: http://img1.mp.oeeee.com/202107/12/365x424_60ebf8452a7a0.png
+      logo: 京东.png
       url: https://ck.nxnow.top
       description: 东哥还是你兄弟吗
     - title: 京东手动登录
-      logo: http://img1.mp.oeeee.com/202107/12/365x424_60ebf8452a7a0.png
+      logo: 京东.png
       url: https://ckt.nxnow.top
       description: 东哥还是你兄弟吗
 
@@ -20,11 +20,11 @@
   icon: fa fa-check
   links: 
     - title: K神の网盘
-      logo: https://raw.nxnow.top/alist-org/logo/main/logo.svg
+      logo: alist.svg
       url: https://l.kitony.eu.org
       description: Kitonyの网盘文件列表
     - title: K神の网盘(镜像加速
-      logo: https://raw.nxnow.top/alist-org/logo/main/logo.svg
+      logo: alist.svg
       url: https://eee1.eu.org
       description: Kitonyの网盘文件列表,下载加速镜像
     - title: K神の管理盘
