@@ -1,1 +1,1 @@
-hugo
+git pull && hugo
