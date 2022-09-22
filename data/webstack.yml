@@ -66,8 +66,13 @@
       links:
         - title: Listen1音乐
           logo: Listen1.jpg
-          url: https://listen1.github.io/listen1/
+          url: https://listen1.github.io/listen1
           description: Listen1音乐。
+      links:
+        - title: MusicTools
+          logo: musictools.jpg
+          url: https://www.whg6.com/html/musictools
+          description: 无损音乐下载。          
     - term: 在线论坛
       links:
         - title: 百度贴吧
