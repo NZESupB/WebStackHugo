@@ -68,11 +68,10 @@
           logo: Listen1.jpg
           url: https://listen1.github.io/listen1
           description: Listen1音乐。
-      links:
         - title: MusicTools
           logo: musictools.jpg
           url: https://www.whg6.com/html/musictools
-          description: 无损音乐下载。          
+          description: 无损音乐下载。   
     - term: 在线论坛
       links:
         - title: 百度贴吧
@@ -87,17 +86,115 @@
           logo: 语雀话题.png
           url: https://www.yuque.com/shenweiyan/wow
           description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
+
+- taxonomy: 资讯学习
+  icon: fas fa-pencil-alt fa-lg
+  list: 
+    - term: 资讯书籍
+      links:
+        - title: 阅读
+          url: https://gedoor.github.io/
+          logo: yuedu.png
+          description: 安卓小说阅读器
+        - title: 微信读书
+          url: https://weread.qq.com/
+          logo: 微信读书.jpg
+          description: 微信读书电脑版。
+        - title: 书栈网
+          url: https://www.bookstack.cn/
+          logo: 书栈网.jpg
+          description: IT 互联网开源编程书籍免费阅读与下载。
+    - term: 博客论坛
+      links:
+        - title: Inoreader
+          url: https://www.inoreader.com/
+          logo: inoreader.jpg
+          description: 重新掌控你的新闻订阅源。
+        - title: Hacker News
+          url: https://news.ycombinator.com/
+          logo: hacker-news.jpg
+          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
+        - title: 经管之家
+          url: https://bbs.pinggu.org/
+          logo: 经管之家.jpg
+          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
+        - title: 阮一峰的网络日志
+          url: http://www.ruanyifeng.com/blog/
+          logo: 阮一峰.png
+          description: 阮一峰，科技爱好者周刊。
+        - title: 酷壳
+          url: https://www.coolshell.cn/
+          logo: ''
+          description: 酷 壳 – CoolShell。
+    # - term: 设计规范
+    #   links:
+    #     - title: Design Guidelines
+    #       url: http://designguidelines.co/
+    #       logo: designguidelines.png
+    #       description: Design Guidelines &mdash; The way products are built.
+    #     - title: Awesome design systems
+    #       url: https://github.com/alexpate/awesome-design-systems
+    #       logo: awesome_design_systems.png
+    #       description:  A collection of awesome design systems.
+    #     - title: Material Design
+    #       url: https://material.io/guidelines/
+    #       logo: Material_Design.png
+    #       description: Introduction - Material Design.
+    #     - title: Human Interface Guidelines
+    #       url: https://developer.apple.com/ios/human-interface-guidelines
+    #       logo: human_interface_guidelines.png
+    #       description: Human Interface Guidelines iOS.
+    #     - title: Photoshop Etiquette
+    #       url: http://viggoz.com/photoshopetiquette/
+    #       logo: photoshopetiquette.png
+    #       description: PS礼仪-WEB设计指南。
+    - term: 视频教程
+      links:
+        - title: Photoshop Lady
+          url: http://www.photoshoplady.com/
+          logo: PhotoshopLady.png
+          description: Your Favourite Photoshop Tutorials in One Place.
+        - title: doyoudo
+          url: http://doyoudo.com/
+          logo: doyoudo.png
+          description: 创意设计软件学习平台。
+        - title: 没位道
+          url: http://www.c945.com/web-ui-tutorial/
+          logo: web_ui_tutorial.png
+          description: WEB UI免费视频公开课。
+        - title: 慕课网
+          url: https://www.imooc.com/
+          logo: imooc.png
+          description: 程序员的梦工厂（有UI课程）。
    
       
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
   list: 
+    - term: 实用软件
+      links:
+        - title: Scrcpy
+          url: https://github.com/Genymobile/scrcpy
+          logo: scrcpy.svg
+          description: 安卓手机息屏投屏
+        - title: 投屏控制器
+          url: https://jamcz.com/wirecast/
+          logo: scrcpy.svg
+          description: 安卓手机简易投屏
+        - title: QtScrcpy
+          url: https://github.com/barry-ran/QtScrcpy
+          logo: scrcpy.svg
+          description: 通过 USB / 网络连接Android设备，并进行显示和控制
     - term: 谷歌插件
       links:
         - title: Ctool
           url: https://github.com/baiy/Ctool
           logo: ctool.jpg
           description: 开发校验常用工具
+        - title: 油猴
+          url: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+          logo: Tampermonkey.jpg
+          description: 在网站上运行用户脚本
         - title: wappalyzer
           url: https://www.wappalyzer.com/
           logo: wappalyzer.png
@@ -122,6 +219,16 @@
           url: http://mustsee.earth/
           logo: mustsee.png
           description: Discover the world's most beautiful places at every opened tab.
+    - term: 油猴脚本
+      links:
+        - title: Speedownload
+          url: https://greasyfork.org/zh-CN/scripts/448372-speedownload
+          logo: Speedownload.png
+          description: 百度网盘不限速下载/加速链接获取:关注微信公众号:叮当的四次元口袋回复 "领取加速链接"
+        - title: Speedownload
+          url: https://github.com/the1812/Bilibili-Evolved#%E5%AE%89%E8%A3%85
+          logo: BilibiliEvolved.png
+          description: 强大的哔哩哔哩增强脚本
     - term: 在线工具
       links:
         - title: ITDog
@@ -274,84 +381,8 @@
           url: http://www.vanschneider.com/colors
           logo: vanschneider.png
           description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
-        
 
-- taxonomy: 资讯学习
-  icon: fas fa-pencil-alt fa-lg
-  list: 
-    - term: 资讯书籍
-      links:
-        - title: 微信读书
-          url: https://weread.qq.com/
-          logo: 微信读书.jpg
-          description: 微信读书电脑版。
-        - title: 书栈网
-          url: https://www.bookstack.cn/
-          logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
-    - term: 博客论坛
-      links:
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源。
-        - title: Hacker News
-          url: https://news.ycombinator.com/
-          logo: hacker-news.jpg
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 阮一峰的网络日志
-          url: http://www.ruanyifeng.com/blog/
-          logo: 阮一峰.png
-          description: 阮一峰，科技爱好者周刊。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: ''
-          description: 酷 壳 – CoolShell。
-    - term: 设计规范
-      links:
-        - title: Design Guidelines
-          url: http://designguidelines.co/
-          logo: designguidelines.png
-          description: Design Guidelines &mdash; The way products are built.
-        - title: Awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-          logo: awesome_design_systems.png
-          description:  A collection of awesome design systems.
-        - title: Material Design
-          url: https://material.io/guidelines/
-          logo: Material_Design.png
-          description: Introduction - Material Design.
-        - title: Human Interface Guidelines
-          url: https://developer.apple.com/ios/human-interface-guidelines
-          logo: human_interface_guidelines.png
-          description: Human Interface Guidelines iOS.
-        - title: Photoshop Etiquette
-          url: http://viggoz.com/photoshopetiquette/
-          logo: photoshopetiquette.png
-          description: PS礼仪-WEB设计指南。
-    - term: 视频教程
-      links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place.
-        - title: doyoudo
-          url: http://doyoudo.com/
-          logo: doyoudo.png
-          description: 创意设计软件学习平台。
-        - title: 没位道
-          url: http://www.c945.com/web-ui-tutorial/
-          logo: web_ui_tutorial.png
-          description: WEB UI免费视频公开课。
-        - title: 慕课网
-          url: https://www.imooc.com/
-          logo: imooc.png
-          description: 程序员的梦工厂（有UI课程）。
-        
+
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
   list:
@@ -449,7 +480,6 @@
           logo: https://fontawesomeicons.com/images/favi.PNG
           url: https://fontawesomeicons.com/
           description: CSS简易icon列表
-          
     - term: 平面素材
       links:
         - title: freepik
