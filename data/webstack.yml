@@ -225,16 +225,16 @@
           url: https://greasyfork.org/zh-CN/scripts/448372-speedownload
           logo: Speedownload.png
           description: 百度网盘不限速下载/加速链接获取:关注微信公众号:叮当的四次元口袋回复 "领取加速链接"
-        - title: Speedownload
+        - title: BilibiliEvolved
           url: https://github.com/the1812/Bilibili-Evolved#%E5%AE%89%E8%A3%85
           logo: BilibiliEvolved.png
-          description: 强大的哔哩哔哩增强脚本
+          description: 一个哔哩哔哩网页增强脚本
     - term: 在线工具
       links:
-        - title: ITDog
-          url: https://itdogs.com
-          logo: https://www.itdog.cn/favicon.ico
-          description: 在线ping tcping http测速 路由跟踪
+        - title: IPIP
+          url: https://ipip.net
+          logo: https://www.ipip.net/favicon.ico
+          description: IP查询_专业精准的IP库服务商_IPIP
         - title: Regex101
           url: https://regex101.com
           logo: https://regex101.com/static/assets/favicon.ico
