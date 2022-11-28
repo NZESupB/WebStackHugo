@@ -67,11 +67,15 @@
         - title: Listen1音乐
           logo: Listen1.jpg
           url: https://listen1.github.io/listen1
-          description: Listen1音乐。
+          description: Listen1音乐
+        - title: 魔音
+          logo: morin.png
+          url: http://morin.feiyu.vin
+          description: 无损音乐下载
         - title: MusicTools
           logo: musictools.jpg
           url: https://www.whg6.com/html/musictools
-          description: 无损音乐下载。   
+          description: 无损音乐下载 (律师函已经寄了)
     - term: 在线论坛
       links:
         - title: 百度贴吧
