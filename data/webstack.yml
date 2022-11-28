@@ -22,19 +22,19 @@
     - title: K神の网盘
       logo: alist.svg
       url: https://l.kitony.eu.org
-      description: Kitonyの网盘文件列表
+      description: Kitonyの网盘文件列表 (移动可能把域名墙了)
     - title: K神の网盘(镜像加速
       logo: alist.svg
       url: https://eee1.eu.org
-      description: Kitonyの网盘文件列表,下载加速镜像
+      description: Kitonyの网盘文件列表,下载加速镜像 (移动可能把域名墙了)
     - title: K神の管理盘
       logo: https://ifile.space/uploads/imgs/favicon.ico
       url: https://file.kitony.eu.org
-      description: Kitonyの网盘.账号密码猜猜看
+      description: Kitonyの网盘.账号密码猜猜看 (移动可能把域名墙了)
     - title: K神の下片器
       logo: https://aria2.github.io/favicon.png
       url: https://aria.kitony.eu.org
-      description: Kitonyの下片器,修改RPC为443端口,RPC密钥猜猜看
+      description: Kitonyの下片器,修改RPC为443端口,RPC密钥猜猜看 (移动可能把域名墙了)
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
