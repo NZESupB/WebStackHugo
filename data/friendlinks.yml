@@ -2,5 +2,8 @@
 #  url: https://bioitee.com/
 #  description: Bio & IT 网址导航
 - title: 个人博客
-  url: https://wblog.nxnow.top/
+  url: https://wblog.nxnow.top
   description: 个人博客
+- title: 另一个博客
+  url: https://blog.nxnow.top
+  description: 另一个博客
