@@ -10,11 +10,15 @@
     - title: 京东自动登录
       logo: 京东.png
       url: https://ck.nxnow.top
-      description: 东哥还是你兄弟吗
+      description: 东哥还是有点羊毛薅的
     - title: 京东手动登录
       logo: 京东.png
       url: https://ckt.nxnow.top
-      description: 东哥还是你兄弟吗
+      description: 东哥还是有点羊毛薅的
+    - title: 探针
+      logo: https://ssr.rs/favicon.png
+      url: https://rstatus.nxnow.top
+      description: NZE的服务器
 
 - taxonomy: K神力荐
   icon: fa fa-check
