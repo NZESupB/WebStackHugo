@@ -21,12 +21,8 @@
   links: 
     - title: K神の网盘
       logo: alist.svg
-      url: https://l.kitony.eu.org
-      description: Kitonyの网盘文件列表 (移动可能把eu.org墙了导致无法访问)
-    - title: K神の网盘(镜像加速
-      logo: alist.svg
       url: https://pan.nxnow.top
-      description: Kitonyの网盘文件列表,下载加速镜像
+      description: Kitonyの网盘文件列表
     - title: K神の管理盘
       logo: https://ifile.space/uploads/imgs/favicon.ico
       url: https://file.kitony.eu.org
@@ -100,6 +96,10 @@
           url: https://gedoor.github.io/
           logo: yuedu.png
           description: 安卓小说阅读器
+        - title: 阅读源汇总
+          url: https://legado.aoaostar.com
+          logo: yuedu.png
+          description: 安卓小说阅读器(源汇总)
         - title: 微信读书
           url: https://weread.qq.com/
           logo: 微信读书.jpg
@@ -199,6 +199,10 @@
           url: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
           logo: Tampermonkey.jpg
           description: 在网站上运行用户脚本
+        - title: ImmersiveTranslate
+          url: https://git.nxnow.top/immersive-translate/immersive-translate
+          logo: immtranslate.jpg
+          description: 网页双语同步翻译
         - title: wappalyzer
           url: https://www.wappalyzer.com/
           logo: wappalyzer.png
@@ -233,24 +237,28 @@
           url: https://github.com/the1812/Bilibili-Evolved#%E5%AE%89%E8%A3%85
           logo: BilibiliEvolved.png
           description: 一个哔哩哔哩网页增强脚本
+        - title: 验证码自动输入
+          url: https://greasyfork.org/zh-CN/scripts/418942-%E4%B8%87%E8%83%BD%E9%AA%8C%E8%AF%81%E7%A0%81%E8%87%AA%E5%8A%A8%E8%BE%93%E5%85%A5-%E5%8D%87%E7%BA%A7%E7%89%88
+          logo: https://greasyfork.org/vite/assets/blacklogo96.e0c2c761.png
+          description: 后台自动识别页面是否存在验证码并填入,可手动,需关注微信公众号配置
     - term: 在线工具
       links:
-        - title: IPIP
-          url: https://ipip.net
-          logo: https://www.ipip.net/favicon.ico
-          description: IP查询_专业精准的IP库服务商_IPIP
         - title: ITDog
           url: https://www.itdog.cn
           logo: itdog.ico
           description: 在线ping,tcping_ITDog
+        - title: IPIP
+          url: https://ipip.net
+          logo: https://www.ipip.net/favicon.ico
+          description: IP查询_专业精准的IP库服务商_IPIP
         - title: Regex101
           url: https://regex101.com
           logo: https://regex101.com/static/assets/favicon.ico
           description: 正则表达式在线匹配校验
-        - title: 极下解析
-          url: https://jixia.ltd
-          logo: https://jixia.ltd/favicon.ico
-          description: 百度网盘在线解析高速下载(有客户端)
+        - title: KinhWeb
+          url: https://kinhweb.com
+          logo: Speedownload.png
+          description: 百度网盘/城通网盘在线解析下载
         - title: tinypng
           url: https://tinypng.com/
           logo: tinypng.png
