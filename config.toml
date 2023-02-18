@@ -35,4 +35,4 @@ publishDir = "docs"
     unsafe = true
 
 [params.footer]
-    copyright = 'Modify By NXWow,Power By Kitony'
+    copyright = 'Modify By NXWow'

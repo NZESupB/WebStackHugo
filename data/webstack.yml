@@ -4,7 +4,7 @@
   icon: far fa-star
   links: 
     - title: 机场
-      logo: https://avatars.githubusercontent.com/u/56885001?s=200&v=4
+      logo: v2board.png
       url: https://air.nzes.cf
       description: 一个用来存放使用文档的网站(
     - title: 京东自动登录
@@ -17,8 +17,12 @@
       description: 东哥还是有点羊毛薅的
     - title: 探针
       logo: https://ssr.rs/favicon.png
-      url: https://rstatus.nxnow.top
+      url: https://status.nxnow.top
       description: NZE的服务器
+    - title: GPT3Web
+      logo: cgpt.svg
+      url: https://gpt.nxnow.top
+      description: 基于GPT3的ChatGPT网页版
 
 - taxonomy: K神力荐
   icon: fa fa-check
@@ -26,15 +30,15 @@
     - title: K神の网盘
       logo: alist.svg
       url: https://pan.nxnow.top
-      description: Kitonyの网盘文件列表
+      description: Kitonyの网盘文件列表(国内加速)
     - title: K神の管理盘
       logo: https://ifile.space/uploads/imgs/favicon.ico
-      url: https://file.kitony.eu.org
-      description: Kitonyの网盘.账号密码猜猜看 (移动可能把eu.org墙了导致无法访问)
+      url: https://file.nxnow.top
+      description: Kitonyの网盘.账号密码猜猜看(国内加速)
     - title: K神の下片器
       logo: https://aria2.github.io/favicon.png
       url: https://aria.kitony.eu.org
-      description: Kitonyの下片器,修改RPC为 tls 443 或 http 9800端口,RPC密钥猜猜看 (移动可能把eu.org墙了导致无法访问)
+      description: Kitonyの下片器,修改RPC为 tls 443 或 http 9800端口,RPC密钥猜猜看
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
