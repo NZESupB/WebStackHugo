@@ -6,7 +6,7 @@
     - title: 机场
       logo: v2board.png
       url: https://air.nzes.cf
-      description: 一个用来存放使用文档的网站(
+      description: 科学上网&部分资源存档(
     - title: 京东自动登录
       logo: 京东.png
       url: https://ck.nxnow.top
@@ -22,7 +22,11 @@
     - title: GPT3Web
       logo: cgpt.svg
       url: https://gpt.nxnow.top
-      description: 基于GPT3的ChatGPT网页版
+      description: 基于GPT3API的ChatGPT第三方网页
+    - title: 云打包
+      logo: PackApp.png
+      url: https://pack.nxnow.top
+      description: 将网页打包成Android/IOS/Windows应用程序(需自行注册后添加权限管理员账号密码admin123456)
 
 - taxonomy: K神力荐
   icon: fa fa-check
@@ -39,29 +43,6 @@
       logo: https://aria2.github.io/favicon.png
       url: https://aria.kitony.eu.org
       description: Kitonyの下片器,修改RPC为 tls 443 或 http 9800端口,RPC密钥猜猜看
-
-- taxonomy: 科研办公
-  icon: fas fa-flask fa-lg
-  list:
-    - term: 办公学习
-      links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。
-        - title: ProcessOn
-          logo: ProcessOn.png
-          url: https://www.processon.com/
-          description: 免费在线作图、实时协作。
-        
 
 - taxonomy: 休闲娱乐
   icon: fas fa-film fa-lg
@@ -106,6 +87,24 @@
           logo: 语雀话题.png
           url: https://www.yuque.com/shenweiyan/wow
           description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
+    - term: 网盘资源
+      links:
+        - title: 百度网盘
+          logo: 百度网盘.jpg
+          url: http://pan.baidu.com/
+          description: https://pan.baidu.com/.
+        - title: 阿里云盘
+          logo: 阿里云盘.png
+          url: https://www.aliyundrive.com/
+          description: 阿里云盘，你的数字世界。
+        - title: 天翼云盘
+          logo: 天翼云盘.jpg
+          url: https://cloud.189.cn/
+          description: 家庭云|网盘|文件备份|资源分享。
+        - title: 坚果云
+          logo: 坚果云.png
+          usrl: https://www.jianguoyun.com/
+          description: 坚果云官网。
 
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
@@ -128,6 +127,20 @@
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
           description: IT 互联网开源编程书籍免费阅读与下载。
+    - term: 翻译词典
+      links:
+        - title: 有道词典
+          logo: 有道词典.png
+          url: https://www.youdao.com/
+          description: 免费，即时的多语种在线翻译。
+        - title: 有道翻译
+          logo: 有道词典.png
+          url: http://fanyi.youdao.com/
+          description: 有道翻译。
+        - title: 谷歌翻译
+          logo: 谷歌翻译.jpg
+          url: https://translate.google.cn/
+          description: 谷歌翻译。
     - term: 博客论坛
       links:
         - title: Inoreader
@@ -138,10 +151,10 @@
           url: https://news.ycombinator.com/
           logo: hacker-news.jpg
           description: 一家关于计算机黑客和创业公司的社会化新闻网站。
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
+        - title: 充电头网
+          url: https://www.chongdiantou.com/
+          logo: 充电头网.png
+          description: 只谈充电。
         - title: 阮一峰的网络日志
           url: http://www.ruanyifeng.com/blog/
           logo: 阮一峰.png
@@ -195,6 +208,16 @@
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
   list: 
+    - term: 在线开发
+      links:
+        - title: 在线代码编译器
+          url: https://rextester.com/
+          logo: rextester.ico
+          description: 常用语言代码在线编译运行
+        - title: Ctool(网页版)
+          url: https://baiy.github.io/Ctool/
+          logo: ctool.jpg
+          description: 程序开发常用工具(同时拥有浏览器插件版)
     - term: 实用软件
       links:
         - title: Scrcpy
@@ -214,7 +237,7 @@
         - title: Ctool
           url: https://github.com/baiy/Ctool
           logo: ctool.jpg
-          description: 开发校验常用工具
+          description: 程序开发常用工具(同时拥有在线网页版)
         - title: 油猴
           url: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
           logo: Tampermonkey.jpg
@@ -261,7 +284,7 @@
           url: https://greasyfork.org/zh-CN/scripts/418942-%E4%B8%87%E8%83%BD%E9%AA%8C%E8%AF%81%E7%A0%81%E8%87%AA%E5%8A%A8%E8%BE%93%E5%85%A5-%E5%8D%87%E7%BA%A7%E7%89%88
           logo: https://greasyfork.org/vite/assets/blacklogo96.e0c2c761.png
           description: 后台自动识别页面是否存在验证码并填入,可手动,需关注微信公众号配置
-    - term: 在线工具
+    - term: 实用网站
       links:
         - title: ITDog
           url: https://www.itdog.cn
@@ -279,6 +302,10 @@
           url: https://kinhweb.com
           logo: Speedownload.png
           description: 百度网盘/城通网盘在线解析下载
+        - title: ProcessOn
+          logo: ProcessOn.png
+          url: https://www.processon.com/
+          description: 免费在线流程图思维导图、实时协作。
         - title: tinypng
           url: https://tinypng.com/
           logo: tinypng.png
@@ -426,24 +453,6 @@
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
   list:
-    - term: 网盘资源
-      links:
-        - title: 百度网盘
-          logo: 百度网盘.jpg
-          url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
-        - title: 阿里云盘
-          logo: 阿里云盘.png
-          url: https://www.aliyundrive.com/
-          description: 阿里云盘，你的数字世界。
-        - title: 天翼云盘
-          logo: 天翼云盘.jpg
-          url: https://cloud.189.cn/
-          description: 家庭云|网盘|文件备份|资源分享。
-        - title: 坚果云
-          logo: 坚果云.png
-          usrl: https://www.jianguoyun.com/
-          description: 坚果云官网。
     - term: 图标素材
       links:
         - title: Iconfinder
