@@ -18,10 +18,10 @@
       logo: https://ssr.rs/favicon.png
       url: https://status.nxnow.top
       description: NZE的服务器
-    - title: GPT3Web
+    - title: ChatGPT_Web
       logo: cgpt.svg
       url: https://gpt.nxnow.top
-      description: 基于GPT3API的ChatGPT第三方网页
+      description: 基于GPT3.5 API的ChatGPT第三方网页,与ChatGPT基本一致
     - title: 云打包
       logo: PackApp.png
       url: https://pack.nxnow.top
@@ -30,18 +30,26 @@
 - taxonomy: K神力荐
   icon: fa fa-check
   links:
-    - title: K神の网盘
+    - title: K神の网盘(源)
       logo: alist.svg
-      url: https://pan.nxnow.top
-      description: Kitonyの网盘文件列表(国内加速)
-    - title: K神の管理盘
+      url: https://pan.kitony.me
+      description: Kitonyの网盘文件列表
+    - title: K神の管理盘(源)
       logo: https://ifile.space/uploads/imgs/favicon.ico
-      url: https://file.nxnow.top
-      description: Kitonyの网盘.账号密码猜猜看(国内加速)
+      url: https://file.kitony.me
+      description: Kitonyの网盘.账号密码猜猜看
     - title: K神の下片器
       logo: https://aria2.github.io/favicon.png
-      url: https://aria.kitony.eu.org
-      description: Kitonyの下片器,修改RPC为 https 443 或 http 9800端口,RPC密钥953608159，移动可能需要代理访问
+      url: https://aria.kitony.me
+      description: Kitonyの下片器,RPC密钥953608159 ,端口 https 443/6800 | http 9800
+    - title: K神の网盘(国内加速)
+      logo: alist.svg
+      url: https://pan.nxnow.top
+      description: Kitonyの网盘文件列表
+    - title: K神の管理盘(国内加速)
+      logo: https://ifile.space/uploads/imgs/favicon.ico
+      url: https://file.nxnow.top
+      description: Kitonyの网盘.账号密码猜猜看
 
 - taxonomy: 休闲娱乐
   icon: fas fa-film fa-lg
@@ -104,10 +112,10 @@
           logo: 坚果云.png
           usrl: https://www.jianguoyun.com/
           description: 坚果云官网。
-        - title: KinhWeb
-          url: https://kinhweb.com
-          logo: Speedownload.png
-          description: 百度网盘/城通网盘在线解析下载
+        # - title: KinhWeb
+        #   url: https://kinhweb.com
+        #   logo: Speedownload.png
+        #   description: 百度网盘/城通网盘在线解析下载
 
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
