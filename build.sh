@@ -1,6 +1,6 @@
 apt install hugo -y
 if [ -d "themes/WebStack-Hugo" ]; then
-  cd themes/WebStack-Hugo && git pull && cd ../../ && git pull && hugo
+  cd themes/WebStack-Hugo && git pull && cd ../../ && git pull --force && hugo
 else
   git clone https://github.com/shenweiyan/WebStack-Hugo.git themes/WebStack-Hugo && git pull && hugo
 fi
