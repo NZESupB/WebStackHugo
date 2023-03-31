@@ -6,7 +6,7 @@
         logo: v2board.png
         url: https://air.nzes.cf
         description: 科学上网&部分资源存档(
-      - title: 京东自动登录
+      - title: 京东扫码登录
         logo: 京东.png
         url: https://ck.nxnow.top
         description: 东哥还是有点羊毛薅的
@@ -242,6 +242,10 @@
               url: https://git.nxnow.top/immersive-translate/immersive-translate
               logo: immtranslate.jpg
               description: 网页双语同步翻译
+            - title: ChatGPT Sidebar
+              url: https://chrome.google.com/webstore/detail/chatgpt-sidebar-support-g/difoiogjjojoaoomphldepapgpbgkhkb
+              logo: ChatGPT Sidebar.jpg
+              description: ChatGPT全局侧边栏作为您在任何页面上的AI助手
             - title: wappalyzer
               url: https://www.wappalyzer.com/
               logo: wappalyzer.png
@@ -268,6 +272,10 @@
               description: Discover the world's most beautiful places at every opened tab.
       - term: 油猴脚本
         links:
+            - title: KubeDown
+              url: https://greasyfork.org/zh-CN/scripts/462218-kubedown
+              logo: Speedownload.png
+              description: New - 百度网盘不限速下载
             - title: Speedownload
               url: https://greasyfork.org/zh-CN/scripts/448372-speedownload
               logo: Speedownload.png
@@ -280,16 +288,20 @@
               url: https://greasyfork.org/zh-CN/scripts/418942-%E4%B8%87%E8%83%BD%E9%AA%8C%E8%AF%81%E7%A0%81%E8%87%AA%E5%8A%A8%E8%BE%93%E5%85%A5-%E5%8D%87%E7%BA%A7%E7%89%88
               logo: https://greasyfork.org/vite/assets/blacklogo96.e0c2c761.png
               description: 后台自动识别页面是否存在验证码并填入,可手动,需关注微信公众号配置
+            - title: 屏蔽搜索中文垃圾
+              url: https://greasyfork.org/zh-CN/scripts/442253-%E5%B1%8F%E8%94%BD%E5%86%85%E5%AE%B9%E5%86%9C%E5%9C%BA-with-%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC
+              logo: https://greasyfork.org/vite/assets/blacklogo96.e0c2c761.png
+              description: Google,Bing 屏蔽「内容农场」在谷歌搜索结果中的呈现,顺便在清除谷歌搜索结果中的Adsense广告,还你清爽的 Google 中文搜索体验！
       - term: 实用网站
         links:
             - title: ITDog
               url: https://www.itdog.cn
               logo: itdog.ico
               description: 在线ping,tcping_ITDog
-            - title: IPIP
-              url: https://ipip.net
-              logo: https://www.ipip.net/favicon.ico
-              description: IP查询_专业精准的IP库服务商_IPIP
+            - title: Ping0
+              url: https://ping0.cc
+              logo: itdog.ico
+              description: Ip查询,在线ping,路由跟踪
             - title: Regex101
               url: https://regex101.com
               logo: https://regex101.com/static/assets/favicon.ico
