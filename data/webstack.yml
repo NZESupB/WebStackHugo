@@ -235,7 +235,7 @@
               logo: ctool.jpg
               description: 程序开发常用工具(同时拥有在线网页版)
             - title: 油猴
-              url: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+              url: https://www.crxsoso.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
               logo: Tampermonkey.jpg
               description: 在网站上运行用户脚本
             - title: ImmersiveTranslate
@@ -243,9 +243,17 @@
               logo: immtranslate.jpg
               description: 网页双语同步翻译
             - title: ChatGPT Sidebar
-              url: https://chrome.google.com/webstore/detail/chatgpt-sidebar-support-g/difoiogjjojoaoomphldepapgpbgkhkb
+              url: https://www.crxsoso.com/webstore/detail/chatgpt-sidebar-support-g/difoiogjjojoaoomphldepapgpbgkhkb
               logo: ChatGPT Sidebar.jpg
               description: ChatGPT全局侧边栏作为您在任何页面上的AI助手
+            - title: Relingo
+              url: https://www.crxsoso.com/webstore/detail/relingo-master-words-from/dpphkcfmnbkdpmgneljgdhfnccnhmfig
+              logo: Relingo.jpg
+              description: 在浏览网站/看视频的同时渐进地学习记忆英文单词
+            - title: Washbaidu
+              url: https://www.crxsoso.com/webstore/detail/bhiodmiooehmkihcpibmohdpmblnmhdb
+              logo: Washbaidu.jpg
+              description: 百度绿色精简化
             - title: wappalyzer
               url: https://www.wappalyzer.com/
               logo: wappalyzer.png
@@ -273,7 +281,7 @@
       - term: 油猴脚本
         links:
             - title: KubeDown
-              url: https://greasyfork.org/zh-CN/scripts/462218-kubedown
+              url: https://script.kubedown.com/
               logo: Speedownload.png
               description: New - 百度网盘不限速下载
             - title: Speedownload
@@ -291,7 +299,7 @@
             - title: 屏蔽搜索中文垃圾
               url: https://greasyfork.org/zh-CN/scripts/442253-%E5%B1%8F%E8%94%BD%E5%86%85%E5%AE%B9%E5%86%9C%E5%9C%BA-with-%E6%B2%B9%E7%8C%B4%E8%84%9A%E6%9C%AC
               logo: https://greasyfork.org/vite/assets/blacklogo96.e0c2c761.png
-              description: Google,Bing 屏蔽「内容农场」在谷歌搜索结果中的呈现,顺便在清除谷歌搜索结果中的Adsense广告,还你清爽的 Google 中文搜索体验！
+              description: Google,Bing 屏蔽「内容农场」在谷歌搜索结果中的呈现,顺便在清除谷歌搜索结果中的Adsense广告,还你清爽的 Google 中文搜索体验！              
       - term: 实用网站
         links:
             - title: ITDog
