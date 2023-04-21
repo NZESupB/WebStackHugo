@@ -1,15 +1,15 @@
 ---
-- taxonomy: 主要服务
+- taxonomy: 主要服务(如果打不开那就是寄了.随缘)
   icon: far fa-star
   links:
       - title: 机场
         logo: v2board.png
         url: https://air.nzes.cf
         description: 科学上网&部分资源存档(
-      - title: 京东扫码登录
+      - title: 京东自动登录
         logo: 京东.png
         url: https://ck.nxnow.top
-        description: 东哥还是有点羊毛薅的
+        description: 东哥还是有点羊毛薅的(优先扫码,不行再短信)
       - title: 京东手动登录
         logo: 京东.png
         url: https://ckt.nxnow.top
@@ -18,6 +18,10 @@
         logo: https://ssr.rs/favicon.png
         url: https://status.nxnow.top
         description: NZE的服务器
+      - title: 探针节点
+        logo: https://ssr.rs/favicon.png
+        url: https://status.nxnow.top
+        description: NZE的服务器详情
       - title: ChatGPT_Web
         logo: cgpt.svg
         url: https://gpt.nxnow.top
@@ -26,6 +30,18 @@
         logo: PackApp.png
         url: https://pack.nxnow.top
         description: 将网页打包成Android/IOS/Windows应用程序(需自行注册后添加权限管理员账号密码admin123456)
+      - title: NZEの网盘(Cloudflare)
+        logo: alist.svg
+        url: https://homep.nxnow.top
+        description: NZEの网盘文件列表(如有IPv6将p移除)
+      - title: NZEのTorrent磁力下载(Cloudflare)
+        logo: alist.svg
+        url: https://homep.nxnow.top:65500
+        description: NZEのTorrent磁力下载(如有IPv6将p移除)
+      - title: NZEのAria百度下载(Cloudflare)
+        logo: alist.svg
+        url: https://homep.nxnow.top:65501
+        description: NZEのAria百度下载(如有IPv6将p移除)
 
 - taxonomy: K神力荐
   icon: fa fa-check
